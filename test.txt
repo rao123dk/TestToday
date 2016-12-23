@@ -1,0 +1,4 @@
+Testing guide 
+1> create user name on website
+2> check password strength
+
